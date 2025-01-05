@@ -1,0 +1,9 @@
+body {
+    
+    height: 100vh;
+    background: 
+        url('Screenshot\ 2024-12-12\ 151755.png  ') repeat-y , 
+        url('Screenshot\ 2024-12-12\ 151748.png ')repeat-x;
+        
+    background-size: 20% auto, auto 20%;
+}
